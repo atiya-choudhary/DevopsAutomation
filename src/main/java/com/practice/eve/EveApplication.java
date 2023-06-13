@@ -8,6 +8,7 @@ public class EveApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EveApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
